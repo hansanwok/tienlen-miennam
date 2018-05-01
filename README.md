@@ -7,4 +7,7 @@ Game đánh bài tiến lên miền nam( 4 người ), dự tính xài nodejs v�
 4. Quy tắc đánh như tiến lên miền anm thường, mỗi ng chơi đến lượt sẽ có 30s để đánh trc khi mất lượt
 5. Reactjs frontend và socketio sẽ là 2 phần chính cho project này, react đảm nhiệm show giao diện, lưu trữ quan bài và handle các rule chơi vs socketio
 6. Update 1 bộ rule và khởi tạo các giao diên cho quân bài
-7. continue....
+Nên lưu trữ các quan bài dưới dạng số để tiện so sánh
+3-4-5-6-7-8-9-0-10-11(J)-12(Q)-13(K)-14(A)-15(2)
+1(Bích) < 2(Chuồn) < 3(Rô) < 4(CƠ)
+Ex: 7 cơ === { number: 7, symbol: 4 }
