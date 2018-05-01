@@ -11,4 +11,4 @@ Game đánh bài tiến lên miền nam( 4 người ), dự tính xài nodejs v�
 `3-4-5-6-7-8-9-10-11(J)-12(Q)-13(K)-14(A)-15(2 aka Heo)`
 
 `1(Bích) < 2(Chuồn) < 3(Rô) < 4(Cơ)`
-### Ex: 7 cơ === { number: 7, symbol: 4 }
+### Ex: 7 cơ === card: { name: " 7 Cơ", number: 7, symbol: 4, image: "7-4.png" }
